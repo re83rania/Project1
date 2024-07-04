@@ -1,3 +1,5 @@
 #Commands
 ##Linex
-##Words		
+- rania
+##Git
+- git add		
